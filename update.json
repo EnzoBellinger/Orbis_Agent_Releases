@@ -1,11 +1,11 @@
 {
   "version": "2.21.5",
   "notes": "Orbis Agent v2.21.5 - Atualiza\u00e7\u00e3o autom\u00e1tica.",
-  "pub_date": "2026-06-27T20:39:01Z",
+  "pub_date": "2026-06-27T21:33:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQnF6aWozN05NM2Jpa3B6YnNiUy83VWN6ZkR6dERRKzRsbEo1dU5xd25FNnpqZksrRmttM0NXdEVIRVFYb1BiMkhCZzdlNDZxUWgyN21EVDBPeDZyVytzS2F0R0IzbGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTkyNzI1CWZpbGU6T3JiaXNBZ2VudF8yLjIyLjJfeDY0LXNldHVwLmV4ZQoxZVN5ZHpTYkFuSUUvb0VaeHdYa2ZOZlFtdEQwRU9HK00zaWorRmxqUXRvaTNKS1krWmlZQlJJMml1QTVaMUNSSGJoOStvQTVpdFkxUzdBdVlib2REZz09Cg==",
-      "url": "https://github.com/EnzoBellinger/Orbis_Agent_Releases/releases/download/v2.21.5/OrbisAgent_2.22.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQnF6aWozN05NM2VWUy85VkUvNHdKZ0pua0RidjhIN3c0eFB6NThyMk01b2lYUER3dG5XT2N5M3FvMHJKNkpVeCtxWm01WWFmT2MzK1p4V3QvVGhtUE0wWjZHOHNtT0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTk2MDE4CWZpbGU6T3JiaXNBZ2VudF8yLjIyLjNfeDY0LXNldHVwLmV4ZQpldWZ1N3JGSHJxSnEwTkNTV0V2UGJTSzA2NmphTXNDVWpvaTdXcW1RaFlhQk94WW01NW5EZ2c4Y0pJcm91WGFpakJZSU5ZU2ZWRHM2dHQ4ZzRwSEJDZz09Cg==",
+      "url": "https://github.com/EnzoBellinger/Orbis_Agent_Releases/releases/download/v2.21.5/OrbisAgent_2.22.3_x64-setup.exe"
     }
   }
 }
