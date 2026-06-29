@@ -1,0 +1,11 @@
+{
+  "version": "2.23.2",
+  "notes": "### \u2699\ufe0f Refactoring & Chores / Outras Mudan\u00e7as\n- chore: trigger release build for v2.23.2",
+  "pub_date": "2026-06-29T15:32:20Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQnF6aWozN05NM1dRWEhaa0pzZUU0YUJ0dHMySXVleDhpdDZEZnJqWDc3bVVRcnh5NDBSVWtFd1czWFh5YU5nWmE3RkxQK2p1bmhlNHZnU29na0Z1ZDU1bGIvWTc3SXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzQ3MTI0CWZpbGU6T3JiaXNBZ2VudF8yLjIzLjJfeDY0LXNldHVwLmV4ZQpIVUg4c0dFbDdFcmJWQlFVNTdxS2pPSjRMVEkvQVp6MjNOUytyelNZUGkvSTJpcnN4UnkrM3FqL2c3bHhTYzBKdjk0dkl5SGpTN1RzbCtNcDBwZ0pBZz09Cg==",
+      "url": "https://github.com/EnzoBellinger/Orbis_Agent_Releases/releases/download/v2.23.2/OrbisAgent_2.23.2_x64-setup.exe"
+    }
+  }
+}
