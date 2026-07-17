@@ -1,11 +1,11 @@
 {
-  "version": "2.23.3",
-  "notes": "### \u2699\ufe0f Refactoring & Chores / Outras Mudan\u00e7as\n- chore: trigger release build for v2.23.3",
-  "pub_date": "2026-06-30T13:48:48Z",
+  "version": "2.25.0",
+  "notes": "### \u2699\ufe0f Refactoring & Chores / Outras Mudan\u00e7as\n- chore: trigger release build for v2.25.0",
+  "pub_date": "2026-07-17T20:39:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQnF6aWozN05NM2V4bnRTdUhPREp4Zk1DcEtLbmpGNkFZZ1NGVms1aEowSCtQbHZaaElrZXJEL3h0UGZpRHA0bUNQSUNVVGpQWlk1K3pjcWFMSXJPSXp4QlY1VVZxTndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODI3MzEyCWZpbGU6T3JiaXNBZ2VudF8yLjI0LjBfeDY0LXNldHVwLmV4ZQpKZDRhUnhqWFV5UUQrc3h4YWp1RTN3YVNLaTVBbm42cStsdEk1RjBDaEp5b0NOYXY5QkJwd29lcW0rcFEydlBLN0JoUmpTVmRKM1p0em1YY2g0VE1Edz09Cg==",
-      "url": "https://github.com/EnzoBellinger/Orbis_Agent_Releases/releases/download/v2.23.3/OrbisAgent_2.24.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQnF6aWozN05NM1RjSkdHeHFMTGdLdUh4S3RXbFJqejFQckFvMG56Y1dOa2NPaG5lc0lWQ01leFpBb01Oa2czSi9iSHZBc0xUandvczNjSWU3d053elQxTVBzdU5BN3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzIwNzY4CWZpbGU6T3JiaXNBZ2VudF8yLjI1LjBfeDY0LXNldHVwLmV4ZQpsbWtwa0pWTUxFb1FlWklGQjZlcEFDeEFlNkl2ZHR5c0I4R0RDWkpHNXZtV2p4UFhEMG9rOS9vRG00Y1dsRGtnYlVjS3E1YS82WEpNWDMrdXJSZStEUT09Cg==",
+      "url": "https://github.com/EnzoBellinger/Orbis_Agent_Releases/releases/download/v2.25.0/OrbisAgent_2.25.0_x64-setup.exe"
     }
   }
 }
